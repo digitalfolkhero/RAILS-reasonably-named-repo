@@ -1,2 +1,2 @@
-# RAILS-reasonably-named-repo
-Class workshop things, test
+# This is a reasonably-named repo
+Testing git and github.
